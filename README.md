@@ -11,6 +11,8 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 ### My projects
 🏡 [ImmoBot](https://github.com/real-br/ImmoBotV2)
 > *webscrapers linked to a chatbot to provide real-time information about new listings on Belgiums' & Brussles' biggest immo websites*
+<br>
+
 🚲 [Bike Inspiration](https://github.com/real-br/bike-inspiration-app)
 > *A flutter app connected to a fastapi backend where users can brag with their bikes*
 
