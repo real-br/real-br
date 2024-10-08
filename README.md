@@ -6,8 +6,8 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 
 - 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Program Manager
 - 🤝 I'm building apps in my free time to solve small problems
-- 🌱 I'm currently learning everything about frontend (mobile & web)
-- 💬 Ask me questions about data & AI, as this is my backgroung
+- 🌱 I'm currently learning about frontend (mobile & web)
+- 💬 Ask me questions about Data & AI, my background
 
 
 ### My projects
