@@ -14,8 +14,9 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 
 
 ### Reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Axel_Rasse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/brecht-seuntjens) 
-[![Mail Badge](https://img.shields.io/badge/-axel.rasse97434-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brecht.seuntjens@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Brecht Seuntjens-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/brecht-seuntjens) 
+[![Mail Badge](https://img.shields.io/badge/-brecht.seuntjens-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brecht.seuntjens@gmail.com)
+
 
 ### Top Technology
 [![PySpark Badge](https://img.shields.io/badge/-PySPark-green?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=white)](#)
