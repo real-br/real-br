@@ -5,7 +5,7 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 
 - 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Program Manager
 - 🤝 I'm building apps in my free time to solve small problems
-- 🌱 I'm currently learning about frontend (mobile & web)
+- 👨🏼‍🏫 I'm currently learning about frontend (mobile & web)
 - 💬 Ask me questions about Data & AI, my background
 
 ### My projects
@@ -21,6 +21,7 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 [![Mail Badge](https://img.shields.io/badge/-brecht.seuntjens-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brecht.seuntjens@gmail.com)
 
 ### Top Technologies
+[![PySpark Badge](https://img.shields.io/badge/-Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![PySpark Badge](https://img.shields.io/badge/-PySPark-green?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-green?style=for-the-badge&labelColor=black&logo=Docker&logoColor=white)](#) 
 [![Airflow Badge](https://img.shields.io/badge/-Airflow-green?style=for-the-badge&labelColor=black&logo=apacheairflow&logoColor=white)](#) 
