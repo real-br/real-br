@@ -14,7 +14,7 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 <br>
 
 🚲 [Bike Inspiration](https://github.com/real-br/bike-inspiration-app)
-> *A flutter app connected to a fastapi backend where users can brag with their bikes*
+> *A flutter app connected to a fastapi & sqlite backend where users can brag with their bikes*
 
 ### Reach me
 [![Linkedin Badge](https://img.shields.io/badge/-Brecht_Seuntjens-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/brecht-seuntjens) 
