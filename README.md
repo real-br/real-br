@@ -17,7 +17,7 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 > *A flutter app connected to a fastapi & sqlite backend where users can brag with their bikes*
 
 ### Reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Brecht_Seuntjens-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/brecht-seuntjens) 
+[![Linkedin Badge](https://img.shields.io/badge/-Brecht_Seuntjens-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brecht-seuntjens) 
 [![Mail Badge](https://img.shields.io/badge/-brecht.seuntjens-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brecht.seuntjens@gmail.com)
 
 ### Top Technologies
