@@ -3,7 +3,7 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 > *raised in Belgium, love traveling and cycling*
 <br>
 
-- 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Program Manager
+- 👔 I am currently working in Mechelen for [Rydoo](https://www.rydoo.com/) as a Program Manager
 - 🤝 I'm building apps in my free time to solve small problems
 - 👨🏼‍🏫 I'm currently learning about frontend (mobile & web)
 - 💬 Ask me questions about Data & AI, my background
