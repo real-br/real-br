@@ -3,9 +3,9 @@ I'm Brecht, passionate about discovering new technologies & using them for small
 > *raised in Belgium, love traveling and cycling*
 <br>
 
-- 👔 I am currently working in Mechelen for [Rydoo](https://www.rydoo.com/) as a Sales Engineer
-- 🤝 I'm building apps in my free time to solve small problems
-- 👨🏼‍🏫 I'm currently learning about frontend (mobile & web)
+- 👔 I am currently building my own start up [Rouby](https://www.rouby.ai/) 
+- 🤝 Learned coding by building apps in my free time to solve small problems
+- 👨🏼‍🏫 I'm currently getting better at full-stack
 - 💬 Ask me questions about Data & AI, my background
 
 ### My projects
