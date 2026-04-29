@@ -44,7 +44,7 @@ I'm Brecht, passionate about discovering new technologies & testing them by buil
 
 #### Infra
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)](#)
 [![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
@@ -61,5 +61,5 @@ I'm Brecht, passionate about discovering new technologies & testing them by buil
 #### Coding Agents
 [![Claude Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
 [![Pi Badge](https://img.shields.io/badge/Pi-141414?style=for-the-badge&logoColor=white)](#)
-[![Codex Badge](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Codex Badge](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=codex&logoColor=white)](#)
 [![Cursor Badge](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](#)
