@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Brecht, passionate about discovering new technologies & testing them by building apps!
-<br>
+
 - 👨‍🏫 I learned most of my full-stack coding skills by building [Rouby](https://www.rouby.ai/)  
 - 💬 My background is Data & AI Engineering
 - 🔨 Building has never been easier, the biggest skill is knowing what (not) to do!
@@ -16,7 +16,6 @@ I'm Brecht, passionate about discovering new technologies & testing them by buil
 
 🏡 [ImmoBot](https://github.com/real-br/ImmoBotV2)
 > Webscrapers linked to a telegram chatbot to provide real-time information about new listings on Belgiums' & Brussles' biggest immo websites
-<br>
 
 🚲 [Bike Inspiration](https://github.com/real-br/bike-inspiration-app)
 > A flutter app connected to a fastapi & sqlite backend where users can brag with their bikes
